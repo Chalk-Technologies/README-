@@ -6,6 +6,8 @@ internal documentation
    -Getting latest changes for master branch:
     first access the file repository the master branch you would like to access is on.
     
+   for example:
+    
     ...
     cd data-backend
     ...
