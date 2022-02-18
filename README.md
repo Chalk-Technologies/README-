@@ -44,3 +44,6 @@ internal documentation
     
    note- 'master' represents branch name.
    
+  -When to create a pull request:
+  
+    After you create a branch and make changes to files in a project, you can create a pull request. With a pull request, you can propose, discuss, and iterate on changes before     you merge the changes into the project. You can create a pull request in your project's repository with GitHub Desktop.
